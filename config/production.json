@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "AndreiWeb",
+  "mongoUri": "mongodb+srv://andrei:fikilix22@cluster0.ewhs1.mongodb.net/mern-course?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
