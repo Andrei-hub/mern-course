@@ -30,6 +30,7 @@ async function start() {
 
     }catch (e) {
         console.log('Server error', e.message)
+        console.log('trying git func')
         process.exit(1)
     }
 }
